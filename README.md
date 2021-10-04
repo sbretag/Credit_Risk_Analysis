@@ -7,6 +7,15 @@ Use a credit card credit dataset from LendingClub, a peer to peer lending servic
   - Use ensemble classifiers to predict credit risk
   - Produce a written report on the credit risk analysis
 
+## Resouces
+
+  - Software: Python and Jupyter Lab
+  - Source Data
+  - Jupyter Notebooks
+    - 1
+    - 2
+    - 3
+
 ## Results
 - Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
 
