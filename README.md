@@ -20,21 +20,27 @@ Use a credit card credit dataset from LendingClub, a peer to peer lending servic
 
 ## Results
 
+### Random Oversampling
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/RandomOverSampling_Results.png)
 - This model may not be the best to predict credit risk due to accuracy and recall for high risk predictions both being below 65%.  Further explanation on why a high recall for high risk predictions is important can be found in the summary below.
 
+### SMOTE
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/SMOTE_Results.png)
 - This model may not be the best to predict credit risk due to accuracy and recall for high risk predictions both being below 67%.  Further explanation on why a high recall for high risk predictions is important can be found in the summary below.
 
+### Cluster Centroids Undersampling
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/ClusterCentroidsUnderSample.png)
 - This model may not be the best to predict credit risk due to accuracy level of 54%.  Although recall for high risk predictions is near 70%, it's still well below an acceptable level for most lenders.  Further explanation on why a high recall for high risk predictions is important can be found in the summary below.
 
+### SMOTEENN
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/SMOTEENN_Results.png)
 - This model may not be the best to predict credit risk due to accuracy level of 66%.  Although recall for high risk predictions is near 75%, it's still well below an acceptable level for most lenders.  Further explanation on why a high recall for high risk predictions is important can be found in the summary below.
 
+### Random Forest
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/RandomForest_Results.png)
 - This model may not be the best to predict credit risk due to accuracy and recall for high risk predictions both being below 80%.  With that said, some aggressive lenders may accept these results.  Further explanation on why a high recall for high risk predictions is important can be found in the summary below.
 
+### EEC
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/EEC_Results.png)
 - Given this model has a 93% accuracy level along with 92% recall level for high risk predictions, this should be acceptable for most lenders.   Further explanation on why a high recall for high risk predictions is important can be found in the summary below.
 
