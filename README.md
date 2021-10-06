@@ -19,19 +19,31 @@ Use a credit card credit dataset from LendingClub, a peer to peer lending servic
     - [Ensemble Ipynb](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Notebooks/credit_risk_ensemble.ipynb)
 
 ## Results
-- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
 
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/RandomOverSampling_Results.png)
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
 
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/SMOTE_Results.png)
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
 
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/ClusterCentroidsUnderSample.png)
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
 
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/SMOTEENN_Results.png)
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
 
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/RandomForest_Results.png)
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
 
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/EEC_Results.png)
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
+- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
+
 
 ## Summary
 - Summarize the results of the machine learning models, and include a recommendation on the model to use, if any.  If you do not recommend any of the models, justify your reasoning.
