@@ -21,7 +21,7 @@ Use a credit card credit dataset from LendingClub, a peer to peer lending servic
 ## Results
 
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/RandomOverSampling_Results.png)
-- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
+- This model may not be the best to predict credit risk due to a relatively low accuracy score and 
 - Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
 
 ![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/SMOTE_Results.png)
