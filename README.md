@@ -9,15 +9,29 @@ Use a credit card credit dataset from LendingClub, a peer to peer lending servic
 
 ## Resouces
 
-  - Software: Python and Jupyter Lab
+  - Software
+    - Python (Machine Learning Environment)
+    - Jupyter Lab
   - Source Data
-  - Jupyter Notebooks
-    - 1
-    - 2
-    - 3
+    - [Loan Data](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Resources/LoanStats_2019Q1.csv)
+  - Ipynb Notebooks
+    - [Resampling Ipynb](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Notebooks/credit_risk_resampling.ipynb)
+    - [Ensemble Ipynb](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Notebooks/credit_risk_ensemble.ipynb)
 
 ## Results
 - Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models.  Use screenshots of your outputs to support your results
+
+![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/RandomOverSampling_Results.png)
+
+![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/SMOTE_Results.png)
+
+![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/ClusterCentroidsUnderSample.png)
+
+![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/SMOTEENN_Results.png)
+
+![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/RandomForest_Results.png)
+
+![image](https://github.com/sbretag/Credit_Risk_Analysis/blob/main/Images/EEC_Results.png)
 
 ## Summary
 - Summarize the results of the machine learning models, and include a recommendation on the model to use, if any.  If you do not recommend any of the models, justify your reasoning.
