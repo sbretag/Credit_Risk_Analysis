@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview
-Use a credit card credit dataset from LendingClub, a peer to peer lending services company, we've been tasked to utilize machine learning models to predict credit risk and produce an evaluation of the model performance with including recommendations.  The following deliverables are required.
+This project evaluates a credit card credit dataset from LendingClub, a peer to peer lending services company, to assess risk using machine learning models to predict credit risk and produce an evaluation of the model performance with including recommendations.  The following deliverables are required.
   - Use resampling models to predict credit risk
   - Use SMOTEENN algorithm to predict credit risk
   - Use ensemble classifiers to predict credit risk
